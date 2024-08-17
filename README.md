@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Yining Hou
 
 <!--
 **EITD/EITD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning more about distributed systems, machine learning, and system development to enhance my expertise in software engineering.
+- 👯 I’m looking to collaborate on open-source projects related to distributed systems, system development, and innovative machine learning applications.
+- 🤔 I’m looking for help with expanding my knowledge in deep learning and exploring new frameworks and tools in the software engineering landscape.
+- 📫 How to reach me: You can contact me via email or connect with me on GitHub.
+- ⚡ Fun fact: I love learning new languages—currently brushing up on my Swedish!
+
+📄 [Check out my CV](https://eitd.github.io/CV.pdf)
