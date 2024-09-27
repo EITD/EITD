@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with expanding my knowledge in deep learning and software engineering.
 - 📫 How to reach me: You can contact me via email or connect with me on GitHub.
 - ⚡ Fun fact: I love learning new languages—currently brushing up on my Swedish!
-
-📄 [Check out my CV](https://eitd.github.io/CV.pdf)
